@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Phd Candidate | Binghamton University
 
 profile:
   align: right
@@ -13,13 +13,11 @@ profile:
   #   <p>Binghamton University</p>
   #   <p>Vestal, NY, 13850</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I’m Xiang Zhang, a PhD Candidate in the [Graphics and Image Computing (GAIC) Laboratory](https://www.cs.binghamton.edu/~lijun/Research/IGC.html) at Binghamton University, advised by [Lijun Yin](https://www.cs.binghamton.edu/~lijun/). Before I joined Binghamton University, I worked in JD.com, Beijing, China, as an iOS developer. Before that, I graduated with a B.Eng. in Electronic Science and Technology from Nanchang Hangkong University, China. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in the intersection of Computer Vision and Deep Learning. Specifically, I am passionate about exploring multi-modal learning for human facial analysis, affective computing, and their applications in various domains such as healthcare, security, and entertainment. I am seeking a challenging role to utilize my skills, education, and experience to make a meaningful contribution to the field.

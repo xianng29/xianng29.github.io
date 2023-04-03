@@ -62,6 +62,7 @@
               </li>
               {%- endif %}
 
+
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
@@ -95,6 +96,14 @@
               {%- endif -%}
               {% endfor -%}
               {%- if site.enable_darkmode %}
+
+
+              <!-- cv -->
+              <li class="nav-item {% if page.url contains 'cv' %}active{% endif %}">
+                <a class="nav-link" href="assets/pdf/Xiang_CV.pdf" target="_blank"> 
+                  {{"CV"}}
+                </a>
+               </li>
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
