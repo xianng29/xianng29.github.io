@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted as co-author by ICCV 2023 [[arxiv]](https://arxiv.org/abs/2203.16678) :sparkles:
+Two papers accepted as co-author by <span style='color:blue'>ICCV 2023</span> [[arxiv]](https://arxiv.org/abs/2203.16678) 

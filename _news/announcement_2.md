@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper accepted as first author by ICCV 2023 [[arxiv]](https://arxiv.org/abs/2304.00058) :sparkles:
+A paper accepted as first author by <span style='color:blue'>ICCV 2023</span> [[arxiv]](https://arxiv.org/abs/2304.00058) 
