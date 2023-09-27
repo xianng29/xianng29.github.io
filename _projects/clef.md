@@ -39,13 +39,13 @@ category: work
             </span>
             <!-- code Link -->
             <span class="link-block">
-                <a href="https://github.com/LizhenWangT/FaceVerse" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
+                <!-- <a href="" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark"> -->
                     <span class="icon">
                     <i class="fab fa-github"></i>
                     </span>
-                <span>Code</span>
-                </a>
+                <span>Code(comming soon)</span>
+                <!-- </a> -->
             </span>  
             <!-- poster Link -->
             <span class="link-block">
