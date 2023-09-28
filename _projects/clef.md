@@ -19,7 +19,7 @@ category: work
             <hr>
             <p class="text-center" style="font-size:20px">
             <span class="link-block">
-                <a href="https://openaccess.thecvf.com/ICCV2023/.pdf" target="_blank"
+                <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Weakly-Supervised_Text-Driven_Contrastive_Learning_for_Facial_Behavior_Understanding_ICCV_2023_paper.pdf" target="_blank"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                         <i class="fa-regular fa-file-pdf"></i>
@@ -87,10 +87,11 @@ category: work
 ```bibtex
 @InProceedings{Zhang_2023_ICCV,
     author    = {Zhang, Xiang and Wang, Taoyue and Li, Xiaotian and Yang, Huiyuan and Yin, Lijun},
-    title     = {Weakly-Supervised Text-driven Contrastive Learning for Facial Behavior Understanding},
+    title     = {Weakly-Supervised Text-Driven Contrastive Learning for Facial Behavior Understanding},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
-    year      = {2023}
+    year      = {2023},
+    pages     = {20751-20762}
 }
 ```
 {% endraw %}
